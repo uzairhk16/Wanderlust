@@ -168,6 +168,15 @@ body {
 }
 
 /* Footer */
+.airbnb-thai{
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    background-color: #ebebeb;
+    color: #222222;
+    margin-left: 1.3rem;
+}
+
 .sec-all{
     display: flex;
     justify-content: space-evenly;
@@ -185,5 +194,5 @@ body {
     font-size: 1.1rem;
 }
 .sec-1{
-    margin-left: 1.5rem;
+    margin-left: 1.3rem;
 }
