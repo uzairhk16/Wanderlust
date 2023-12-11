@@ -166,3 +166,13 @@ body {
 .show-msg{
     font-size: 1.1rem;
 }
+
+/* Footer */
+.sec-all{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.sec-all div a{
+    color: black;
+}
