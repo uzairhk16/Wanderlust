@@ -40,6 +40,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 1rem;
 }
 .f-info-links, 
 .f-info-socials,
@@ -172,12 +173,11 @@ body {
     display: flex;
     align-items: center;
     height: 4.2rem;
-    margin-left: 1.3rem;
-    font-size: 12px;
-}
-.bg-sec{
+    margin-left: 3rem;
+    font-size: 15px;
     background-color: #ebebeb;
 }
+
 .airbnb-thai a{
     color: #222222;
     text-decoration: none;
