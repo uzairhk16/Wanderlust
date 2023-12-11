@@ -172,12 +172,17 @@ body {
     display: flex;
     align-items: center;
     height: 4.2rem;
-    background-color: #ebebeb;
-    color: #222222;
     margin-left: 1.3rem;
+    font-size: 12px;
+}
+.bg-sec{
+    background-color: #ebebeb;
+}
+.airbnb-thai a{
+    color: #222222;
     text-decoration: none;
 }
-.airbnb-thai:hover{
+.airbnb-thai a:hover{
     text-decoration: underline;
     color: rgb(1, 1, 60);
 }
