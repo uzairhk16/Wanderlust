@@ -175,7 +175,7 @@ body {
     height: 4.2rem;
     margin-left: 3rem;
     font-size: 15px;
-    background-color: #ebebeb;
+    border-bottom: 1px solid black;
 }
 
 .airbnb-thai a{
@@ -186,12 +186,15 @@ body {
     text-decoration: underline;
     color: rgb(1, 1, 60);
 }
+.bg-sec{
+    background-color: #ebebeb;
+}
 .sec-all{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     background-color: #ebebeb;
-    height: 19rem;
+    height: 24rem;
 }
 .section {
     margin-right: 3.5rem;
